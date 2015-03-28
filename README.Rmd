@@ -1,7 +1,7 @@
 ---
 title: "简单在R中做方差分析"
 author: "姜晓东"
-date: "`r Sys.Date()`"
+date: "2015"
 
 output:
     pdf_document:
